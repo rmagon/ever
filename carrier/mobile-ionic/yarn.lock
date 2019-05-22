@@ -916,10 +916,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/swiper@^4.4.2":
-  version "4.4.2"
-  resolved "https://registry.yarnpkg.com/@types/swiper/-/swiper-4.4.2.tgz#189585204a651ceb4b5f6a5eb536f808faa00079"
-  integrity sha512-bJzmpMwGaA6elG0/9M3H45Az0IwuuJoUGUXGgH/DVKZOJg3iBtu+djAlBnOXOonAHd5kDsrfdhdxFKOGjzM+Vw==
+"@types/swiper@^4.4.3":
+  version "4.4.3"
+  resolved "https://registry.yarnpkg.com/@types/swiper/-/swiper-4.4.3.tgz#8f02e14b77ed51da563fb7cf669b7beb6d397451"
+  integrity sha512-z4RRt3/4ERHizeU8qIKmUsUpmoXFeEAJu0WLBZtjoVczaCnNL0KYQX0aBFZNhEu3bSNlMfWbZSHrg5gqAIucNA==
 
 "@types/uuid@^3.4.4":
   version "3.4.4"
