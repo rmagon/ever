@@ -541,12 +541,12 @@
     typescript "~3.3.3333"
     ws "^6.1.4"
 
-"@ionic/angular@^4.1.2":
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/@ionic/angular/-/angular-4.2.0.tgz#f90ad2b8b5f515a9cfc1025c8b40ec77fddb2c1c"
-  integrity sha512-ALZNxEZjkBJDyLH0mqcZQsgi9yUWB8uW2u6kg6ZjjSGf6atQL1IhOt+tTvdE98GWoNwFghNmdg9IFCFjUhANjw==
+"@ionic/angular@^4.4.1":
+  version "4.4.1"
+  resolved "https://registry.yarnpkg.com/@ionic/angular/-/angular-4.4.1.tgz#dcf4177486e4e54594374f16db6599b516807448"
+  integrity sha512-RhFrB9l2FGrPrSrhwdnTeMcp4Z0GZVqvYvfI4TkkhgpD8gOp3okOEw7l+pkhG53LrrNOVkDM4M1rT7KqIXFrLQ==
   dependencies:
-    "@ionic/core" "4.2.0"
+    "@ionic/core" "4.4.1"
     tslib "^1.9.3"
 
 "@ionic/app-scripts@^3.2.3":
@@ -609,12 +609,12 @@
     wrap-ansi "^4.0.0"
     write-file-atomic "^2.3.0"
 
-"@ionic/core@4.2.0":
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-4.2.0.tgz#9b71c4b22a6b58cfe1bd3b1e24142b462ed9b480"
-  integrity sha512-JGnx8NV9z3Bgg/Ds/uEe4PPwp/UWnxqU35koByWZcyDpdb1WTwF8b4iJA8QGoj2DWEyFx7qt3c/bw3Zk/F7JPw==
+"@ionic/core@4.4.1":
+  version "4.4.1"
+  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-4.4.1.tgz#5b22f0cf5ca025b554773bc25d9353307c1efc06"
+  integrity sha512-F4CcGZKn30meRPxPpedHkAmjsEj5pVygDxihh4CMqyuLlmpZmuqbQzp5/N8v4t25UJ/BHvtRO9/wLXBS9W8p8Q==
   dependencies:
-    ionicons "4.5.5"
+    ionicons "4.5.8"
 
 "@ionic/discover@1.0.13":
   version "1.0.13"
@@ -5566,10 +5566,10 @@ ionic@^4.12.0:
     update-notifier "^2.3.0"
     uuid "^3.2.1"
 
-ionicons@4.5.5:
-  version "4.5.5"
-  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-4.5.5.tgz#b059958a54dd45cfa127acc0baf11503b8671e51"
-  integrity sha512-dIGI73XG6Fg2Ps77ry5Ywe36Pq7wUGkDkl0pBhC4uhsiyoW+oXe+pplmarXEnKEcB5fmlkRrBOxYYzZaoRiUGw==
+ionicons@4.5.8:
+  version "4.5.8"
+  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-4.5.8.tgz#a81177325153e7eaecb9546ee0b7955451743f8e"
+  integrity sha512-Zib/fFGHt+r9tWrvZnrxVj22cO4NVj+ZOb76v5yiOyvb0LSTbbReECDg7lEU8e+YR69qCtWHruStJ+b4G/OWxg==
 
 ionicons@^4.5.5:
   version "4.5.6"
